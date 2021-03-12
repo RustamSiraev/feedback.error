@@ -1,0 +1,7 @@
+#feedback_ErrorWindow{padding: 0px;max-width: 100%;}
+.feedback_ErrorTitleBar{padding: 22px;font-size: 18px;font-weight: bold; font-size:16px; color:#143f6d}
+#popup-window-content-feedback_ErrorWindow, #error-comment{background-color: #fff;}
+#feedback_ErrorWindow .popup-window-titlebar{height: 70px;border-bottom: 2px solid #3a500e;}
+#feedback_ErrorWindow .popup-window-buttons{padding: 20px 0 20px;}
+#feedback_SendErrorOk, #feedback_SendError_LongText{padding: 50px;}
+#feedback_ErrorWindow .popup-window-close-icon:after{width: 20px;height: 20px;}
